@@ -7,7 +7,7 @@ while true do
     a,b=turtle.inspect()
     if a==true then
         if b["name"]=="minecraft:chest" then
-            print("finded")
+            print("found")
             break
         else
             if flag==0 then

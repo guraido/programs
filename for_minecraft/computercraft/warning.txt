@@ -1,0 +1,4 @@
+このファイル内のプログラムのほとんどはminecraftのmodであるcomputercraftで追加されるcomputerでのみ実行可能となっています
+modの導入に関してはこちらをご参照ください
+(https://minecraftjapan.miraheze.org/wiki/MOD%E8%A7%A3%E8%AA%AC/ComputerCraft#%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB)
+動作テストは computercraft1.75 で行っています
